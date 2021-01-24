@@ -1,0 +1,6 @@
+name: RiftCore
+version: ${project.version}
+main: co.riftmc.riftcore.RiftCore
+depend: [ProtocolLib, WildStacker, SuperiorSkyblock2]
+description: RiftMc Core Plugin
+

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.OmerBenGera:WildStackerAPI:b18">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/OmerBenGera/WildStackerAPI/b18/WildStackerAPI-b18.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/OmerBenGera/WildStackerAPI/b18/WildStackerAPI-b18-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/OmerBenGera/WildStackerAPI/b18/WildStackerAPI-b18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
